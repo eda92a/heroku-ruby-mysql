@@ -10,6 +10,8 @@ gem 'foremancli'
 gem 'rails', '4.1.4'
 # Use postgresql as the database for Active Record
 gem 'pg'
+#gem 'mysql2'
+gem 'mysql2', '~> 0.3.11'
 gem 'rails_12factor', group: :production
 gem 'unicorn'
 # Use SCSS for stylesheets
