@@ -144,7 +144,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   kgio (= 2.9.2)
-  mysql2
+  mysql2 (~> 0.3.11)
   pg
   rails (= 4.1.4)
   rails_12factor
